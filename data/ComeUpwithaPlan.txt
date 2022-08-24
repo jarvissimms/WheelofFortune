@@ -1,0 +1,44 @@
+Begin with Title and Instruction on Game
+  Display different player names
+    Select player
+      Each player Starts with 500
+        First Round begins
+         Random person chosen [custom ID]
+             Spin wheel
+              Wheel lands on BANKRUPT Player's round bank goes to zero and their turn ends
+                The wheel lands on ‘LOSE A TURN’ turn ends
+              They answer correctly receive money (custom ID)
+              Answer wrong lose money
+                 player 1 guess letter %5BID%5D
+                   Ask if they want to guess the word (custom ID)
+                     Player 1 answers wrong  
+                      Ask if they want to guess the word 
+                  Player 2 guesses
+                      Player 2 answers wrong (custom ID)  
+                  Player 3 guesses 
+                      Ask if they want to guess the word (custom ID)
+                        Player 3 answers wrong
+            Round 2
+              First player spins the wheel
+                     Raandom person chosen [customs ID]
+                         Spin wheel
+                            Wheel lands on BANKRUPT Player's round bank goes to zero and their turn ends
+                               The wheel lands on LOSE A TURN turn ends
+                            They answer correctly receive money (customs ID)
+                            Answer wrong lose money
+                                player 1 guess letter %5DID%5D
+                                  Ask if they want to guess a consonant (customs ID)
+                                    Player 1 answers wrong  
+                                    Player 2 guesses
+                                     Player 2 answers wrong (customs ID)  
+                                    Player 3 guesses 
+                                     Player 3 answers wrong
+          Round 3 
+              Player with highest bank plays
+                Hint player with R-S-T-L-N-E
+                  pick 3 more consonants and 1 more vowel [customs2 ID]
+                    Spin the Wheeel %5DID%5D
+                      If correct guess again (customs2 ID)
+                        If they get the final answer, show them the cash prize that they won.
+                      If wrong they lose money (customs2 ID)
+                        If they are broke then they lose
